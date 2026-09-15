@@ -1,4 +1,4 @@
-a = 11
+a = 1
 
 
 def check_num(a):

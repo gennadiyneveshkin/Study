@@ -1,27 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="361a69ec-2d15-4766-8331-1baaef320d9d" name="Changes" comment="" />
+    <list default="true" id="361a69ec-2d15-4766-8331-1baaef320d9d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/EdusonStudy/Functions/import_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EdusonStudy/Modules/import.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EdusonStudy/Modules/mod_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EdusonStudy/IfElse/if_else.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdusonStudy/If/if_else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EdusonStudy/Modules/CreateModule.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdusonStudy/If/IfNot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EdusonStudy/Modules/Modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdusonStudy/Modules/modules.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": false
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gennadiyneveshkin&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gennadiyneveshkin/Study&quot;,
+    &quot;accountId&quot;: &quot;25c419d3-5dff-44ea-96e1-8b3c1124034e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3JEBfSVBjt0GAbSwgdlXrMCWe2u" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.IfNot.executor": "Run",
+    "Python.Import.executor": "Run",
+    "Python.Recursion.executor": "Run",
+    "Python.if_else.executor": "Run",
+    "Python.import.executor": "Run",
+    "Python.import_test.executor": "Run",
+    "Python.modules.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
