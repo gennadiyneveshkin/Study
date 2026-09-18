@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="361a69ec-2d15-4766-8331-1baaef320d9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/EdusonStudy/Functions/import_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EdusonStudy/Modules/import.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EdusonStudy/Modules/mod_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EdusonStudy/IfElse/if_else.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdusonStudy/If/if_else.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EdusonStudy/Modules/CreateModule.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdusonStudy/If/IfNot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EdusonStudy/Modules/Modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdusonStudy/Modules/modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EdusonStudy/Functions/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdusonStudy/Functions/function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EdusonStudy/Functions/import_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdusonStudy/Functions/import_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EdusonStudy/Modules/import.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdusonStudy/Modules/import.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EdusonStudy/Modules/mod_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdusonStudy/Modules/mod_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +53,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Break.executor": "Run",
     "Python.IfNot.executor": "Run",
     "Python.Import.executor": "Run",
     "Python.Recursion.executor": "Run",
+    "Python.While.executor": "Run",
+    "Python.function.executor": "Run",
     "Python.if_else.executor": "Run",
     "Python.import.executor": "Run",
     "Python.import_test.executor": "Run",
@@ -67,6 +68,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/PycharmProgects/Study",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",

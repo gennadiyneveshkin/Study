@@ -2,7 +2,7 @@
 # Из него импортируется данная функция
 
 def foo():
-    return 'Test'
+    return 'Импорт из папки mod_test'
 
 
 def foo2():

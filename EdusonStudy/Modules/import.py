@@ -20,7 +20,5 @@ sys.path.append(
 # Проверяем, что она попала в список
 print(sys.path)
 
-# Импорт функции test_function из файла import_test, который лежит в папке Functions (работает)
+# Импорт функции test_function из файла import_test, который лежит в папке Functions
 from import_test import test_function
-
-print(os.getcwd())
