@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="361a69ec-2d15-4766-8331-1baaef320d9d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/EdusonStudy/Lists/adjacency_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EdusonStudy/Modules/bacic_modules.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EdusonStudy/Functions/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdusonStudy/Functions/function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EdusonStudy/Functions/import_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdusonStudy/Functions/import_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EdusonStudy/Modules/import.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdusonStudy/Modules/import.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EdusonStudy/Modules/mod_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdusonStudy/Modules/mod_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +52,13 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Break.executor": "Run",
+    "Python.Continue.executor": "Run",
     "Python.IfNot.executor": "Run",
     "Python.Import.executor": "Run",
     "Python.Recursion.executor": "Run",
     "Python.While.executor": "Run",
+    "Python.adjacency_list.executor": "Run",
+    "Python.bacic_modules.executor": "Run",
     "Python.function.executor": "Run",
     "Python.if_else.executor": "Run",
     "Python.import.executor": "Run",
@@ -73,7 +74,7 @@
     "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="SharedIndexes">
