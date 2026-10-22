@@ -4,22 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="361a69ec-2d15-4766-8331-1baaef320d9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/EdusonStudy/Files/data1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EdusonStudy/Files/files.py" afterDir="false" />
+    <list default="true" id="54347072-2559-49e9-8871-eae5a139c1e4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,66 +25,106 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/gennadiyneveshkin/Study&quot;,
-    &quot;accountId&quot;: &quot;25c419d3-5dff-44ea-96e1-8b3c1124034e&quot;
+    &quot;url&quot;: &quot;https://github.com/gennadiyneveshkin/Study.git&quot;,
+    &quot;accountId&quot;: &quot;6cdaa0c3-a33c-439a-b19c-afda29f49ba4&quot;
   }
 }</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7,
-  &quot;fromUser&quot;: false
-}</component>
-  <component name="ProjectId" id="3JEBfSVBjt0GAbSwgdlXrMCWe2u" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000165287306" />
+      <entry key="S2" value="1.0196904927426773" />
+      <entry key="S5" value="1.3686042648119416" />
+      <entry key="S10" value="2.030074548842763" />
+      <entry key="S30" value="3.0898326634110878" />
+      <entry key="S60" value="3.502181379549534" />
+      <entry key="M2" value="3.7393313174388085" />
+      <entry key="M5" value="3.892759552167381" />
+      <entry key="M10" value="3.945871131485948" />
+      <entry key="M15" value="3.9638000597144476" />
+      <entry key="M30" value="3.981842764792821" />
+      <entry key="H1" value="3.990907018848137" />
+      <entry key="H2" value="3.9954499126089633" />
+      <entry key="H4" value="3.997724056358588" />
+      <entry key="D1" value="3.999620551004239" />
+      <entry key="W1" value="3.999945789937199" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.7819991691529005E-7" />
+      <entry key="MS500" value="0.04468703634042166" />
+      <entry key="S2" value="0.4701723205465944" />
+      <entry key="S5" value="1.0018568196906092" />
+      <entry key="S10" value="1.7312006576648538" />
+      <entry key="S30" value="2.927952804061308" />
+      <entry key="S60" value="3.409009982274156" />
+      <entry key="M2" value="3.6892167157841227" />
+      <entry key="M5" value="3.8717988878758822" />
+      <entry key="M10" value="3.935232323430615" />
+      <entry key="M15" value="3.9566718462914046" />
+      <entry key="M30" value="3.9782607049776124" />
+      <entry key="H1" value="3.9891114788413753" />
+      <entry key="H2" value="3.99455101234223" />
+      <entry key="H4" value="3.9972743233163937" />
+      <entry key="D1" value="3.9995455561751716" />
+      <entry key="W1" value="3.9999350754268206" />
+    </decayedShown>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3K3sadbY3LyzNNbKoOqw6dGtvlk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Break.executor": "Run",
-    "Python.Continue.executor": "Run",
-    "Python.IfNot.executor": "Run",
-    "Python.Import.executor": "Run",
-    "Python.Recursion.executor": "Run",
-    "Python.While.executor": "Run",
-    "Python.adjacency_list.executor": "Run",
-    "Python.bacic_modules.executor": "Run",
-    "Python.files.executor": "Run",
-    "Python.function.executor": "Run",
-    "Python.if_else.executor": "Run",
-    "Python.import.executor": "Run",
-    "Python.import_test.executor": "Run",
-    "Python.modules.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/PycharmProgects/Study",
-    "node.js.detected.package.jshint": "true",
-    "node.js.selected.package.jshint": "",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.files.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-eff1e8def5f5-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10315.174" />
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
       </set>
     </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="361a69ec-2d15-4766-8331-1baaef320d9d" name="Changes" comment="" />
-      <created>1789216452673</created>
+      <changelist id="54347072-2559-49e9-8871-eae5a139c1e4" name="Changes" comment="" />
+      <created>1790797650351</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1789216452673</updated>
+      <updated>1790797650351</updated>
     </task>
     <servers />
   </component>
