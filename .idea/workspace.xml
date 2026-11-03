@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="54347072-2559-49e9-8871-eae5a139c1e4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EdusonStudy/Functions/lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdusonStudy/Functions/lambda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EdusonStudy/ListComprehension/XForXinX.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdusonStudy/ListComprehension/XForXinX.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EdusonStudy/Multitudes/multitudes.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdusonStudy/Multitudes/multitudes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EdusonStudy/Strings/strings formating.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdusonStudy/Strings/strings formating.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EdusonStudy/Tuples/tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/EdusonStudy/Tuples/tuples.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,8 +110,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.XForXinX.executor": "Run",
+    "Python.dictionaries.executor": "Run",
     "Python.files.executor": "Run",
     "Python.lambda.executor": "Run",
+    "Python.multitudes.executor": "Run",
+    "Python.strings formating.executor": "Run",
+    "Python.tuples.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
